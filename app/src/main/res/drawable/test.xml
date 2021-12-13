@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="false">
+
+        <shape>
+            <stroke android:width="4dp"
+
+                android:color="#5B1180">
+            </stroke>
+            <!--mau nen button-->
+            <gradient android:startColor="#CB0A83"
+                android:endColor="#5B1180"/>
+
+            <!--tao vien-->
+
+
+            <!--bo tron-->
+            <corners android:radius="35dp"></corners>
+<!--                        <gradient android:centerColor="@color/purple_700"/>-->
+        </shape>
+    </item>
+</layer-list>
